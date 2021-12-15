@@ -1,0 +1,37 @@
+.first {
+    text-align: center;
+    color: black;
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+.bg {
+    background-color: orange;
+}
+
+.footer {
+    text-align: center;
+    background-color: aliceblue;
+}
+
+.heading-background {
+    background-color: aliceblue;
+}
+
+.heading-text {
+    text-align: center;
+    border-bottom: 5px solid black;
+    color: black;
+}
+
+.to-top {
+    text-align: center;
+    color: black;
+    background-color: aliceblue;
+}
+
+.headings {
+    text-align: center;
+    color: black;
+    background-color: skyblue;
+}
